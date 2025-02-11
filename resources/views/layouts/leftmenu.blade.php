@@ -20,44 +20,44 @@
                 </li>
 
                 <li>
-                    <a href="calendar.html" class=" waves-effect">
+                    <a href="#" class=" waves-effect">
                         <img src="{{asset('images/cust.svg')}}" width="24" alt="Customer">
                         <span>Customer</span>
                     </a>
                 </li>
                 <li>
-                    <a href="calendar.html" class=" waves-effect">
+                    <a href="#" class=" waves-effect">
                         <img src="{{asset('images/plan.svg')}}" width="24" alt="Plan">
                         <span>Rate plan</span>
                     </a>
                 </li>
                 <li>
-                    <a href="calendar.html" class=" waves-effect">
+                    <a href="#" class=" waves-effect">
                         <img src="{{asset('images/pref.svg')}}" width="24" alt="Prefix">
                         <span>Add Prefix</span>
                     </a>
                 </li>
                 <li>
-                    <a href="calendar.html" class=" waves-effect">
+                    <a href="#" class=" waves-effect">
 
                         <span class="him">IP Truck</span>
                         <span class="badge rounded-pill bg-success float-end">BETA</span>
                     </a>
                 </li>
                 <li>
-                    <a href="calendar.html" class=" waves-effect">
+                    <a href="#" class=" waves-effect">
                         <img src="{{asset('images/sipTrunk.svg')}}" width="24" alt="Sip Truck">
                         <span>SIP Trunk</span>
                     </a>
                 </li>
                 <li>
-                    <a href="calendar.html" class=" waves-effect">
+                    <a href="#" class=" waves-effect">
                         <img src="{{asset('images/acCall.svg')}}" width="24" alt="Active call">
                         <span>Active Call</span>
                     </a>
                 </li>
                 <li>
-                    <a href="calendar.html" class=" waves-effect">
+                    <a href="#" class=" waves-effect">
                         <img src="{{asset('images/frwl.svg')}}" width="24" alt="Firewall">
                         <span>IP Firewall</span>
                     </a>
